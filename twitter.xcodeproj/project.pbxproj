@@ -16,6 +16,7 @@
 		C37BB8182533976E009ED233 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C37BB8172533976E009ED233 /* LoginViewController.swift */; };
 		C37BB81B25339DFF009ED233 /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C37BB81A25339DFF009ED233 /* HomeTableViewController.swift */; };
 		C37BB81E2533A9FF009ED233 /* TweetCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C37BB81D2533A9FF009ED233 /* TweetCellTableViewCell.swift */; };
+		C39BB9BE25345ABF00EF3125 /* TweetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39BB9BD25345ABF00EF3125 /* TweetViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		C37BB8172533976E009ED233 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		C37BB81A25339DFF009ED233 /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
 		C37BB81D2533A9FF009ED233 /* TweetCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetCellTableViewCell.swift; sourceTree = "<group>"; };
+		C39BB9BD25345ABF00EF3125 /* TweetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				C37BB8172533976E009ED233 /* LoginViewController.swift */,
 				C37BB81A25339DFF009ED233 /* HomeTableViewController.swift */,
 				C37BB81D2533A9FF009ED233 /* TweetCellTableViewCell.swift */,
+				C39BB9BD25345ABF00EF3125 /* TweetViewController.swift */,
 			);
 			path = Twitter;
 			sourceTree = "<group>";
@@ -135,7 +138,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6EBCF51D21DF07FC00451C03 /* Build configuration list for PBXProject "twitter" */;
+			buildConfigurationList = 6EBCF51D21DF07FC00451C03 /* Build configuration list for PBXProject "Twitter" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -211,6 +214,7 @@
 			files = (
 				C37BB81B25339DFF009ED233 /* HomeTableViewController.swift in Sources */,
 				C37BB8182533976E009ED233 /* LoginViewController.swift in Sources */,
+				C39BB9BE25345ABF00EF3125 /* TweetViewController.swift in Sources */,
 				6EBCF54421E047A500451C03 /* TwitterAPICaller.swift in Sources */,
 				C37BB81E2533A9FF009ED233 /* TweetCellTableViewCell.swift in Sources */,
 				6EBCF52621DF07FC00451C03 /* AppDelegate.swift in Sources */,
@@ -392,7 +396,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6EBCF51D21DF07FC00451C03 /* Build configuration list for PBXProject "twitter" */ = {
+		6EBCF51D21DF07FC00451C03 /* Build configuration list for PBXProject "Twitter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6EBCF53221DF07FE00451C03 /* Debug */,
